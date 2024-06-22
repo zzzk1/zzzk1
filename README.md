@@ -1,7 +1,5 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzk1&show_icons=true&theme=cobalt)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzk1&layout=compact&card_width=465)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=zzzk1" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzk1&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
