@@ -1,4 +1,4 @@
-name: waka
+name: Waka Readme
 on:
   schedule:
     - cron: "*/10 * * * *"
